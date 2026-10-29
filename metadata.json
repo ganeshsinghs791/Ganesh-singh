@@ -1,0 +1,6 @@
+{
+  "name": "Subway Dash 3D - Endless Runner",
+  "description": "An action-packed 3D endless runner game with 3-lane controls, power-ups, missions, unlockable characters, dynamic day-night cycles, and procedural sound synth!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
